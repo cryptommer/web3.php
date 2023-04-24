@@ -1,13 +1,13 @@
 {
-    "name": "kgs/web3",
+    "name": "cryptommer/web3",
     "description": "A simple encapsulation of Web3 framework in PHP environment.\n",
     "type": "library",
     "keywords": ["eth", "web3", "contract", "sign", "usdt", "dai"],
     "license": "MIT",
     "authors": [
         {
-            "name": "yukaige",
-            "email": "yukaige@yukaige.com"
+            "name": "Pouya Biglari",
+            "email": "cyberman9000@gmail.com"
         }
     ],
     "autoload": {
