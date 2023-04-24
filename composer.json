@@ -17,9 +17,9 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "PHP": "^7.0|^8.0",
+        "PHP": "*",
         "kornrunner/keccak": "^1.0",
         "simplito/elliptic-php": "^1.0",
-        "guzzlehttp/guzzle": "^6.0|^7.0"
+        "guzzlehttp/guzzle": "*"
     }
 }
